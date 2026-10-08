@@ -1,0 +1,19 @@
+# Core data handling and statistics
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+
+# Plotting
+matplotlib>=3.7
+seaborn>=0.12
+
+# Network analysis
+networkx>=3.0
+
+# Survival analysis (Kaplan-Meier, Cox proportional hazards)
+lifelines>=0.27
+
+# Raincloud plot in figures/plot_treatment_group_comparison.py only.
+# Optional: comment out if you do not need that specific figure.
+ptitprince>=0.2.7
